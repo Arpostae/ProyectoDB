@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-﻿
-=======
-﻿Imports System.Data.SqlClient
+Imports System.Data.SqlClient
 
 Module Module1
     Sub Main()
@@ -34,5 +31,3 @@ Module Module1
         Console.ReadLine()
     End Sub
 End Module
-
->>>>>>> 82d5cde3a8c0c0f626a9fe020bca12ae684c4a61

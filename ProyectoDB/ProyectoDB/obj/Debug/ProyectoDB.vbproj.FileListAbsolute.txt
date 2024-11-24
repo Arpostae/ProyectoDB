@@ -40,3 +40,16 @@ C:\Users\Usuario\Desktop\ProyectoDB\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.e
 C:\Users\Usuario\Desktop\ProyectoDB\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.xml
 C:\Users\Usuario\Desktop\ProyectoDB\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.pdb
 >>>>>>> 82d5cde3a8c0c0f626a9fe020bca12ae684c4a61
+C:\Users\zetun\Desktop\ProyectoDB\ProyectoDB\ProyectoDB\ProyectoDB\bin\Debug\ProyectoDB.exe.config
+C:\Users\zetun\Desktop\ProyectoDB\ProyectoDB\ProyectoDB\ProyectoDB\bin\Debug\ProyectoDB.exe
+C:\Users\zetun\Desktop\ProyectoDB\ProyectoDB\ProyectoDB\ProyectoDB\bin\Debug\ProyectoDB.pdb
+C:\Users\zetun\Desktop\ProyectoDB\ProyectoDB\ProyectoDB\ProyectoDB\bin\Debug\ProyectoDB.xml
+C:\Users\zetun\Desktop\ProyectoDB\ProyectoDB\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.vbproj.AssemblyReference.cache
+C:\Users\zetun\Desktop\ProyectoDB\ProyectoDB\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.FrmLogin.resources
+C:\Users\zetun\Desktop\ProyectoDB\ProyectoDB\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.Form2.resources
+C:\Users\zetun\Desktop\ProyectoDB\ProyectoDB\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.Resources.resources
+C:\Users\zetun\Desktop\ProyectoDB\ProyectoDB\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.vbproj.GenerateResource.cache
+C:\Users\zetun\Desktop\ProyectoDB\ProyectoDB\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.vbproj.CoreCompileInputs.cache
+C:\Users\zetun\Desktop\ProyectoDB\ProyectoDB\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.exe
+C:\Users\zetun\Desktop\ProyectoDB\ProyectoDB\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.xml
+C:\Users\zetun\Desktop\ProyectoDB\ProyectoDB\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.pdb
