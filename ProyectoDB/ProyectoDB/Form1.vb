@@ -1,7 +1,9 @@
-﻿'Imports System.Data.SqlClient
+﻿Imports System.Data.SqlClient
 Public Class FrmLogin
 
-    'Dim conexion As New SqlConnection
+    Dim conexion As New SqlConnection
+    Dim comando As New SqlCommand
+
     Private Sub Label1_Click(sender As Object, e As EventArgs) Handles Label1.Click
 
     End Sub
@@ -11,6 +13,13 @@ Public Class FrmLogin
     End Sub
 
     Private Sub btnAceptar_Click(sender As Object, e As EventArgs) Handles btnAceptar.Click
+        conexion = New SqlConnection("server=LENOVODIEGO\SQLEXPRESS; database=practica;  integrated security=true")
+
+        conexion.Open()
+        Dim consulta As String = "Select * from Usuarios where usuario='" & txtUsuario.Text & "' and Contraseña = '" & txtContrasenia.Text & "'"
+        comando = New SqlCommand(consulta, conexion)
+        Dim lector As SqlDataReader
+        'lector = 
 
 
         If (txtUsuario.Text = "Arath") And (txtContrasenia.Text = "123") Then
@@ -18,10 +27,6 @@ Public Class FrmLogin
         Else
             MsgBox("Usuario o Contraseña incorrecta, porfavor verifique")
         End If
-    End Sub
-
-    Private Sub PictureBox1_Click(sender As Object, e As EventArgs) Handles PictureBox1.Click
-
     End Sub
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
