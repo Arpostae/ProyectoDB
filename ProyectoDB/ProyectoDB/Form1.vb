@@ -13,7 +13,7 @@ Public Class FrmLogin
     End Sub
 
     Private Sub btnAceptar_Click(sender As Object, e As EventArgs) Handles btnAceptar.Click
-        conexion = New SqlConnection("server=DESKTOP-GR0BB9K\zetun; database=practica;  integrated security=true")
+        conexion = New SqlConnection("server=DESKTOP-GR0BB9K\SQLEXPRESS; database=Restaruante;  integrated security=true")
 
         conexion.Open()
         Dim consulta As String = "Select * from Usuarios where usuario='" & txtUsuario.Text & "' and Contraseña = '" & txtContrasenia.Text & "'"
