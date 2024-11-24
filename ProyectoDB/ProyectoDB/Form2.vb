@@ -24,17 +24,7 @@
     End Sub
 
     Private Sub Label1_Click(sender As Object, e As EventArgs) Handles Label1.Click
-        If (BackColor == Color.Lime) Then
-                {
-        FormBorderStyle = FormBorderStyle.Sizable;
-        BackColor = Color.Black;
-        Location = New Point(Left - 8, Top - 30);
-    }
-    Else
-    {
-        FormBorderStyle = FormBorderStyle.None;
-        BackColor = Color.Lime;
-        Location = New Point(Left + 8, Top + 30);
-    }
+
+
     End Sub
 End Class

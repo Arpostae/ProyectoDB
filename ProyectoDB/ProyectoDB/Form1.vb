@@ -1,7 +1,7 @@
-﻿Imports System.Data.SqlClient
+﻿'Imports System.Data.SqlClient
 Public Class Form1
 
-    Dim conexion As New SqlConnection
+    'Dim conexion As New SqlConnection
     Private Sub Label1_Click(sender As Object, e As EventArgs) Handles Label1.Click
 
     End Sub
@@ -25,6 +25,6 @@ Public Class Form1
     End Sub
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        conexion = New SqlConnection("server=ARATH; database=Restaurante; integrated security=true")
+        'conexion = New SqlConnection("server=ARATH; database=Restaurante; integrated security=true")
     End Sub
 End Class
