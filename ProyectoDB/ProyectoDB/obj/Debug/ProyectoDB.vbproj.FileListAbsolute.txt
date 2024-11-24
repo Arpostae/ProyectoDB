@@ -11,3 +11,16 @@ C:\Users\arath\OneDrive\Escritorio\ProyectoDB\ProyectoDB\ProyectoDB\bin\Debug\Pr
 C:\Users\arath\OneDrive\Escritorio\ProyectoDB\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.exe
 C:\Users\arath\OneDrive\Escritorio\ProyectoDB\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.xml
 C:\Users\arath\OneDrive\Escritorio\ProyectoDB\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.pdb
+C:\Users\diego\ProyectoDB\ProyectoDB\ProyectoDB\bin\Debug\ProyectoDB.exe.config
+C:\Users\diego\ProyectoDB\ProyectoDB\ProyectoDB\bin\Debug\ProyectoDB.exe
+C:\Users\diego\ProyectoDB\ProyectoDB\ProyectoDB\bin\Debug\ProyectoDB.pdb
+C:\Users\diego\ProyectoDB\ProyectoDB\ProyectoDB\bin\Debug\ProyectoDB.xml
+C:\Users\diego\ProyectoDB\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.vbproj.AssemblyReference.cache
+C:\Users\diego\ProyectoDB\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.Form1.resources
+C:\Users\diego\ProyectoDB\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.Form2.resources
+C:\Users\diego\ProyectoDB\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.Resources.resources
+C:\Users\diego\ProyectoDB\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.vbproj.GenerateResource.cache
+C:\Users\diego\ProyectoDB\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.vbproj.CoreCompileInputs.cache
+C:\Users\diego\ProyectoDB\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.exe
+C:\Users\diego\ProyectoDB\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.xml
+C:\Users\diego\ProyectoDB\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.pdb
