@@ -27,4 +27,8 @@
 
 
     End Sub
+
+    Private Sub btnLogin_Click(sender As Object, e As EventArgs) Handles btnLogin.Click
+        Form1.Show()
+    End Sub
 End Class
