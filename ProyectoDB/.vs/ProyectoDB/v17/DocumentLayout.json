@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zetun\\Desktop\\ProyectoDB\\ProyectoDB\\ProyectoDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0398ED6-2C7C-44AB-B8A0-3ED45BBAF2DF}|ProyectoDB\\ProyectoDB.vbproj|c:\\users\\zetun\\desktop\\proyectodb\\proyectodb\\proyectodb\\proyectodb\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E0398ED6-2C7C-44AB-B8A0-3ED45BBAF2DF}|ProyectoDB\\ProyectoDB.vbproj|solutionrelative:proyectodb\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\zetun\\Desktop\\ProyectoDB\\ProyectoDB\\ProyectoDB\\ProyectoDB\\Form1.vb",
+              "RelativeDocumentMoniker": "ProyectoDB\\Form1.vb",
+              "ToolTip": "C:\\Users\\zetun\\Desktop\\ProyectoDB\\ProyectoDB\\ProyectoDB\\ProyectoDB\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoDB\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-24T02:30:46.87Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
