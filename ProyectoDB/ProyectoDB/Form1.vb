@@ -1,5 +1,5 @@
 ﻿'Imports System.Data.SqlClient
-Public Class Form1
+Public Class FrmLogin
 
     'Dim conexion As New SqlConnection
     Private Sub Label1_Click(sender As Object, e As EventArgs) Handles Label1.Click
