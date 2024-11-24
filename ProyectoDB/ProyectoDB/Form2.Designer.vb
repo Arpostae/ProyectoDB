@@ -41,12 +41,14 @@ Partial Class Form2
         Me.Label7 = New System.Windows.Forms.Label()
         Me.Label8 = New System.Windows.Forms.Label()
         Me.Label9 = New System.Windows.Forms.Label()
+        Me.btnLogin = New System.Windows.Forms.Button()
+        Me.Label10 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'Button1
         '
         Me.Button1.Image = CType(resources.GetObject("Button1.Image"), System.Drawing.Image)
-        Me.Button1.Location = New System.Drawing.Point(552, 28)
+        Me.Button1.Location = New System.Drawing.Point(284, 23)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(245, 184)
         Me.Button1.TabIndex = 0
@@ -56,7 +58,7 @@ Partial Class Form2
         'Button3
         '
         Me.Button3.Image = CType(resources.GetObject("Button3.Image"), System.Drawing.Image)
-        Me.Button3.Location = New System.Drawing.Point(803, 28)
+        Me.Button3.Location = New System.Drawing.Point(535, 23)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(243, 184)
         Me.Button3.TabIndex = 2
@@ -66,7 +68,7 @@ Partial Class Form2
         'btnMesa1
         '
         Me.btnMesa1.Image = CType(resources.GetObject("btnMesa1.Image"), System.Drawing.Image)
-        Me.btnMesa1.Location = New System.Drawing.Point(281, 28)
+        Me.btnMesa1.Location = New System.Drawing.Point(13, 23)
         Me.btnMesa1.Name = "btnMesa1"
         Me.btnMesa1.Size = New System.Drawing.Size(265, 184)
         Me.btnMesa1.TabIndex = 3
@@ -76,7 +78,7 @@ Partial Class Form2
         'Button2
         '
         Me.Button2.Image = CType(resources.GetObject("Button2.Image"), System.Drawing.Image)
-        Me.Button2.Location = New System.Drawing.Point(281, 239)
+        Me.Button2.Location = New System.Drawing.Point(13, 234)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(265, 183)
         Me.Button2.TabIndex = 6
@@ -86,7 +88,7 @@ Partial Class Form2
         'btnMesa6
         '
         Me.btnMesa6.Image = CType(resources.GetObject("btnMesa6.Image"), System.Drawing.Image)
-        Me.btnMesa6.Location = New System.Drawing.Point(803, 239)
+        Me.btnMesa6.Location = New System.Drawing.Point(535, 234)
         Me.btnMesa6.Name = "btnMesa6"
         Me.btnMesa6.Size = New System.Drawing.Size(243, 183)
         Me.btnMesa6.TabIndex = 5
@@ -96,7 +98,7 @@ Partial Class Form2
         'Button6
         '
         Me.Button6.Image = CType(resources.GetObject("Button6.Image"), System.Drawing.Image)
-        Me.Button6.Location = New System.Drawing.Point(552, 239)
+        Me.Button6.Location = New System.Drawing.Point(284, 234)
         Me.Button6.Name = "Button6"
         Me.Button6.Size = New System.Drawing.Size(245, 183)
         Me.Button6.TabIndex = 4
@@ -106,7 +108,7 @@ Partial Class Form2
         'Button7
         '
         Me.Button7.Image = CType(resources.GetObject("Button7.Image"), System.Drawing.Image)
-        Me.Button7.Location = New System.Drawing.Point(281, 448)
+        Me.Button7.Location = New System.Drawing.Point(13, 443)
         Me.Button7.Name = "Button7"
         Me.Button7.Size = New System.Drawing.Size(265, 190)
         Me.Button7.TabIndex = 9
@@ -116,7 +118,7 @@ Partial Class Form2
         'Button8
         '
         Me.Button8.Image = CType(resources.GetObject("Button8.Image"), System.Drawing.Image)
-        Me.Button8.Location = New System.Drawing.Point(803, 448)
+        Me.Button8.Location = New System.Drawing.Point(535, 443)
         Me.Button8.Name = "Button8"
         Me.Button8.Size = New System.Drawing.Size(243, 190)
         Me.Button8.TabIndex = 8
@@ -126,7 +128,7 @@ Partial Class Form2
         'Button9
         '
         Me.Button9.Image = CType(resources.GetObject("Button9.Image"), System.Drawing.Image)
-        Me.Button9.Location = New System.Drawing.Point(552, 448)
+        Me.Button9.Location = New System.Drawing.Point(284, 443)
         Me.Button9.Name = "Button9"
         Me.Button9.Size = New System.Drawing.Size(245, 190)
         Me.Button9.TabIndex = 7
@@ -136,7 +138,7 @@ Partial Class Form2
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(392, 9)
+        Me.Label1.Location = New System.Drawing.Point(124, 4)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(48, 16)
         Me.Label1.TabIndex = 10
@@ -145,7 +147,7 @@ Partial Class Form2
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(654, 9)
+        Me.Label2.Location = New System.Drawing.Point(386, 4)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(51, 16)
         Me.Label2.TabIndex = 11
@@ -154,7 +156,7 @@ Partial Class Form2
         'Label3
         '
         Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(904, 9)
+        Me.Label3.Location = New System.Drawing.Point(636, 4)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(51, 16)
         Me.Label3.TabIndex = 12
@@ -163,7 +165,7 @@ Partial Class Form2
         'Label4
         '
         Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(904, 220)
+        Me.Label4.Location = New System.Drawing.Point(636, 215)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(51, 16)
         Me.Label4.TabIndex = 15
@@ -172,7 +174,7 @@ Partial Class Form2
         'Label5
         '
         Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(654, 220)
+        Me.Label5.Location = New System.Drawing.Point(386, 215)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(51, 16)
         Me.Label5.TabIndex = 14
@@ -181,16 +183,16 @@ Partial Class Form2
         'Label6
         '
         Me.Label6.AutoSize = True
-        Me.Label6.Location = New System.Drawing.Point(392, 220)
+        Me.Label6.Location = New System.Drawing.Point(124, 215)
         Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(48, 16)
+        Me.Label6.Size = New System.Drawing.Size(51, 16)
         Me.Label6.TabIndex = 13
-        Me.Label6.Text = "Mesa4"
+        Me.Label6.Text = "Mesa 4"
         '
         'Label7
         '
         Me.Label7.AutoSize = True
-        Me.Label7.Location = New System.Drawing.Point(904, 429)
+        Me.Label7.Location = New System.Drawing.Point(636, 424)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(51, 16)
         Me.Label7.TabIndex = 18
@@ -199,7 +201,7 @@ Partial Class Form2
         'Label8
         '
         Me.Label8.AutoSize = True
-        Me.Label8.Location = New System.Drawing.Point(654, 429)
+        Me.Label8.Location = New System.Drawing.Point(386, 424)
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(51, 16)
         Me.Label8.TabIndex = 17
@@ -208,17 +210,37 @@ Partial Class Form2
         'Label9
         '
         Me.Label9.AutoSize = True
-        Me.Label9.Location = New System.Drawing.Point(392, 429)
+        Me.Label9.Location = New System.Drawing.Point(124, 424)
         Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(48, 16)
+        Me.Label9.Size = New System.Drawing.Size(51, 16)
         Me.Label9.TabIndex = 16
-        Me.Label9.Text = "Mesa7"
+        Me.Label9.Text = "Mesa 7"
+        '
+        'btnLogin
+        '
+        Me.btnLogin.Image = CType(resources.GetObject("btnLogin.Image"), System.Drawing.Image)
+        Me.btnLogin.Location = New System.Drawing.Point(845, 67)
+        Me.btnLogin.Name = "btnLogin"
+        Me.btnLogin.Size = New System.Drawing.Size(110, 96)
+        Me.btnLogin.TabIndex = 19
+        Me.btnLogin.UseVisualStyleBackColor = True
+        '
+        'Label10
+        '
+        Me.Label10.AutoSize = True
+        Me.Label10.Location = New System.Drawing.Point(866, 48)
+        Me.Label10.Name = "Label10"
+        Me.Label10.Size = New System.Drawing.Size(64, 16)
+        Me.Label10.TabIndex = 20
+        Me.Label10.Text = "Regresar"
         '
         'Form2
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1086, 643)
+        Me.Controls.Add(Me.Label10)
+        Me.Controls.Add(Me.btnLogin)
         Me.Controls.Add(Me.Label7)
         Me.Controls.Add(Me.Label8)
         Me.Controls.Add(Me.Label9)
@@ -262,4 +284,6 @@ Partial Class Form2
     Friend WithEvents Label7 As Label
     Friend WithEvents Label8 As Label
     Friend WithEvents Label9 As Label
+    Friend WithEvents btnLogin As Button
+    Friend WithEvents Label10 As Label
 End Class
